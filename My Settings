@@ -1,7 +1,3 @@
-#My Settings#
-If you want windows like gestures you can use my settings: Just replace the code in the *~/.config/touchegg/touchegg.conf* file with the following code
-
-```Plaintext
 aaaa<touchégg><settings>
     <!--
       Delay, in milliseconds, since the gesture starts before the animation is displayed.
@@ -138,4 +134,3 @@ aaaa<touchégg><settings>
 </gesture>
 
   </application></touchégg>
-```
