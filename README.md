@@ -1,4 +1,3 @@
-# Setting-up-Touchpad-gestures-on-Linux
 # **Setting up Touchpad gestures on Linux**
 
 Let’s admit it; Touchpad gestures have always been a nightmare for Linux users for ages. If you have ever used a Macbook or Windows 10 laptop with a compatible touchpad, you know what I’m talking about. Three-finger swipe, to switch between different application windows, to Four finger swipes, to switch between different workspace, It’s beautiful and hella productive at the same time.
